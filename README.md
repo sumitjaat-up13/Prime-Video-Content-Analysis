@@ -20,7 +20,7 @@ This project analyzes **9,651 titles** (Movies & TV Shows) available on Prime Vi
 - **Content Growth**: Observed the increasing trend in Prime Video content over the years.  
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](https://github.com/sumitjaat-up13/Prime-Video-Content-Analysis/blob/main/Analysis%20Dashboard.png) 
+_[Dashboard Screenshot](https://github.com/sumitjaat-up13/Prime-Video-Content-Analysis/blob/main/Analysis%20Dashboard.png)_
 
 ## 🚀 How to Use
 1. Open the **Power BI (.pbix) file**.  
